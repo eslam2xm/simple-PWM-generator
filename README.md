@@ -1,5 +1,5 @@
 # simple-PWM-generator
-output frequency is 100x less than input clock frequency
+output frequency is 100x less than input clock frequency./n
 uses a counter and a comparator 
 
 Simulation : 
